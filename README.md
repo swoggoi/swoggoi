@@ -114,4 +114,4 @@ Todo-list backend on Go, following the same clean architecture (`cmd` / `interna
  
 - Email: [loordyy1337@gmail.com](mailto:loordyy1337@gmail.com)
 - GitHub: [swoggoi](https://github.com/swoggoi)
- 
+- Telegram: [@swogga](https://t.me/swogga)
