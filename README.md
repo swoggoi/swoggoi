@@ -88,11 +88,11 @@ The project includes:
 - Docker-based development environment
 - HTML frontend
 Built with a clean, layered architecture (`cmd/messenger` / `internal` / `migrations`).
-The project is currently in development. ⭐ 1
+The project is currently in development. 
  
 ### 📝 [todo_list](https://github.com/swoggoi/todo_list)
  
-Todo-list backend on Go, following the same clean architecture (`cmd` / `internal` / `migrations`), containerized with Docker Compose and a Makefile for repeatable builds. ⭐ 2
+Todo-list backend on Go, following the same clean architecture (`cmd` / `internal` / `migrations`), containerized with Docker Compose and a Makefile for repeatable builds. 
  
 ---
  
