@@ -29,8 +29,8 @@ Currently, I am building academic and pet projects and improving my backend deve
 | Language | Level |
 |---|---|
 | Go | Confident |
-| C++ | Learning |
 | C# | Learning |
+| C++ | Basic knowledge |
 | Python | Basic knowledge |
  
 ### Backend
